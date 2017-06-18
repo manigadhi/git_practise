@@ -1,3 +1,6 @@
+"""
+We are adding the email config
+"""
 import smtplib
  
 server = smtplib.SMTP('smtp.gmail.com', 587)
